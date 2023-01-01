@@ -35,8 +35,9 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-
+<br>
+<br>
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pporong&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pporong&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=pporong&show_icons=true">
 </div>
