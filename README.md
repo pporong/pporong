@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pporong's%20GitHub!&fontSize=90)
 
+<div align=center>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pporong's%20GitHub!&fontSize=90)
+</div>
+
+
+<div align=center>
 ## 👋 안녕하세요! 보름이라고 해요!
 ### ⚡  프로그래밍을 공부하고 있습니다
+</div>
 
 
 <div align=center>
@@ -32,4 +38,9 @@
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pporong&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=pporong&show_icons=true">
 </div>
