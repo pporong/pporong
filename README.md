@@ -3,12 +3,8 @@
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=pporong's%20GitHub!&fontSize=90" />
 </div>
 
-
-<div align=center>
 ## 👋 안녕하세요! 보름이라고 해요!
 ### ⚡  프로그래밍을 공부하고 있습니다
-</div>
-
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
